@@ -11,7 +11,7 @@ This Tableau project provides an interactive dashboard for analyzing COVID-19 da
 - `dashboard.twbx` – Packaged Tableau workbook with data and visuals.
 
 ## Screenshots
-![Dashboard Overview](Covid_19_dashboard.jpg)
+![Dashboard Overview] (https://github.com/lakshman-1003/interactive-covid19-dashboard-tableau/blob/main/Covid_19%20_dashboard.JPG)
 
 ## How to View
 1. Download the `.twbx` file.
