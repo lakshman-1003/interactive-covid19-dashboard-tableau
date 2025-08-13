@@ -3,9 +3,9 @@
 This Tableau project provides an interactive dashboard for analyzing COVID-19 data across regions.
 
 ## Features
-- Visualizes daily cases, deaths, and recoveries.
-- Country/state-level filtering.
-- Interactive charts and KPIs.
+-> Visualizes daily cases, deaths, and recoveries.
+-> Country/state-level filtering.
+-> Interactive charts and KPIs.
 
 ## File Included
 - `dashboard.twbx` – Packaged Tableau workbook with data and visuals.
